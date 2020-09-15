@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "dockflow/guzzle",
     "type": "library",
     "description": "Guzzle is a PHP HTTP client library",
     "keywords": [
